@@ -1,0 +1,11 @@
+POST		http://localhost:8080/escola/empresas/add
+
+{
+    "nif": "11111111A",
+    "nom": "Pere",
+    "cognom1": "Solís",
+    "cognom2": "Fernández",
+    "dataNaixement": "2000-01-15",
+    "creditsAprovats": 100,
+    "notaAcces": 3.2
+}
